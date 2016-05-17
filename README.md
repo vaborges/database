@@ -14,8 +14,7 @@ Introdução
 
 Linguagens Formais de Consulta
 - A linguagem SQL
-­- Álgebra Relacional
-­- Cálculo Relacional
+­- Álgebra e Cálculo Relacional
 
 Dependências Funcionais e normalização
 
